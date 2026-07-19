@@ -45,3 +45,11 @@ Skills Demonstrated
 Project Outcome
 
 This dashboard provides a clear overview of retail sales performance, helping identify top-performing products, salespersons, categories, and profitable states for better business decision-making.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+## Pivot Table Preview
+
+![Pivot Table](pivot_table.png)
